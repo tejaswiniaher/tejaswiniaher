@@ -64,20 +64,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
-### 📚 Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-</p>
-
-![](https://img.shields.io/badge/System%20Design-blue?style=for-the-badge)
-
-![](https://img.shields.io/badge/REST%20API-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/JWT%20Authentication-orange?style=for-the-badge)
-
 ---
 
 # 🚀 Featured Projects
@@ -144,7 +130,7 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejaswini-aher-53b9232a4">
+<a href="https://www.linkedin.com/in/tejaswini-aher-53b9232a4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -163,7 +149,5 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 <div align="center">
 
 ### ⭐ "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=tejaswiniaher&style=for-the-badge&color=blue"/>
 
 </div>
