@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Tejaswini Aher
 
-### 🚀 Full Stack Developer | Java Developer | MERN Stack | Problem Solver
+### 🚀 Full Stack Developer | Java | MERN Stack | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer" />
 
 </div>
 
@@ -82,31 +82,19 @@
 
 # 🚀 Featured Projects
 
-## 📦 Inventory Management System
-
-> MERN Stack application to manage products, inventory, and stock efficiently.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
----
-
-## 🛣 Road Condition Detection System
+## 🛣 AI-Based Rural Road Health Monitoring and Maintenance Prioritization System
 
 AI-powered system that detects potholes and damaged roads with GPS tagging for faster maintenance.
 
 ---
 
-
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tejaswiniaher&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiniaher&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,7 +104,7 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=tejaswiniaher&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -126,7 +114,7 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejaswiniaher&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +124,7 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+<img src="https://leetcard.jacoblin.cool/Tejaswini_aher?theme=dark&font=Poppins"/>
 
 </p>
 
@@ -146,7 +134,7 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tejaswiniaher&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -156,15 +144,15 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejaswini-aher-53b9232a4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tejaswiniaher905@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/tejaswiniaher">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -176,6 +164,6 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 ### ⭐ "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=tejaswiniaher&style=for-the-badge&color=blue"/>
 
 </div>
