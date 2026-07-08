@@ -37,13 +37,13 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### ⚙ Backend
@@ -148,6 +148,6 @@ AI-powered system that detects potholes and damaged roads with GPS tagging for f
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ "Code. Learn. Build. Repeat." ⭐
 
 </div>
