@@ -66,14 +66,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛣 AI-Based Rural Road Health Monitoring and Maintenance Prioritization System
-
-AI-powered system that detects potholes and damaged roads with GPS tagging for faster maintenance.
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
